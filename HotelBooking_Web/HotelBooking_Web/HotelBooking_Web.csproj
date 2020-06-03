@@ -5132,11 +5132,13 @@
     <Content Include="Views\Shared\Error.aspx" />
     <Content Include="Views\Shared\customerLayout.cshtml" />
     <Content Include="Views\home\trangchu.cshtml" />
+    <Content Include="Views\home\GioiThieu.cshtml" />
+    <Content Include="Views\home\LoaiPhong.cshtml" />
+    <Content Include="Views\home\KhuyenMai.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Admin\Models\" />
-    <Folder Include="Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
